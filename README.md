@@ -29,7 +29,7 @@ A comprehensive web application for travel agencies to calculate customized Umra
 4. Click "Calculate Total Cost" for detailed pricing
 
 ## Screenshots
-[Calculator Login Interface](/screenshots/calculator.png) | [Calculator Interface](/screenshots/calculator.png) | [Results Dialog](/screenshots/results.png)
+[Calculator Login Interface](/screenshots/calculatorlogin.png) | [Calculator Interface](/screenshots/calculator.png) | [Results Dialog](/screenshots/results.png)
 
 ## License
 MIT License - Free for commercial and personal use
